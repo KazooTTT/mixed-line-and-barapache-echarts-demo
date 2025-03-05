@@ -1,4 +1,3 @@
 # Mixed Line and Bar - Apache ECharts Demo
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/KazooTTT-Wang/pen/poYPWWN](https://codepen.io/KazooTTT-Wang/pen/poYPWWN).
-
+A Pen created on CodePen.io. Original URL: [Mixed Line and Bar](https://codepen.io/KazooTTT-Wang/pen/XJWRRzP)
